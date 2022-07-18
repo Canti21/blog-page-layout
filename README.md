@@ -5,3 +5,6 @@ Blog website for HTML and CSS practice
 
 This proyect was made for the following course:
 [Curso Práctico de Maquetación en CSS](https://platzi.com/cursos/practico-css/)
+
+Deployment:
+[Blog](https://canti21.github.io/blog-page-layout/)
